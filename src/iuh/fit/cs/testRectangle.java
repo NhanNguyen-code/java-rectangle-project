@@ -4,7 +4,7 @@
  * @version: 1.0
  * @created: 20-Aug-2025 7:37:45 PM
  */
-package iuh.fit.se;
+package iuh.fit.cs;
 
 import java.util.Scanner;
 
